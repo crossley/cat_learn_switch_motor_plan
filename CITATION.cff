@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: "Category Learning During Task Switching"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Crossley"
+    given-names: "Matthew J."
+  - family-names: "Arnold"
+    given-names: "Hannah"
+  - family-names: "Kaplan"
+    given-names: "David M."
+  - family-names: "Ashby"
+    given-names: "F. Gregory"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/REPLACE_WITH_OWNER/REPLACE_WITH_REPO"
+keywords:
+  - category learning
+  - task switching
+  - decision-bound models
+  - cognitive control
+preferred-citation:
+  type: manuscript
+  title: "Motor demands in category learning during task switching"
+  authors:
+    - family-names: "Crossley"
+      given-names: "Matthew J."
+    - family-names: "Arnold"
+      given-names: "Hannah"
+    - family-names: "Kaplan"
+      given-names: "David M."
+    - family-names: "Ashby"
+      given-names: "F. Gregory"
+  notes: "Current primary manuscript source in this repository: write/main_GA.tex"
